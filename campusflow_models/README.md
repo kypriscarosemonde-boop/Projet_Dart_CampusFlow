@@ -107,3 +107,5 @@ L'organisation du code en modèles, services et tests facilite la maintenance du
 Petite précision : tu as indiqué que les tests se trouvent dans `lib/test`, mais la commande `dart test test/task_test.dart` et les résultats que tu as partagés montrent que le dossier utilisé est `test/`, à la racine de `CampusFlow_models`. J'ai donc retenu cette dernière structure dans le README.
 
 Pense également à vérifier que le nom du dossier est bien `CampusFlow_models` et non `CampusFlow_nodels`, afin de conserver une architecture cohérente sur GitHub.
+
+voici le lien: https://github.com/kypriscarosemonde-boop/Projet_Dart_CampusFlow 
