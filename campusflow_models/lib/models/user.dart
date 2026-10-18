@@ -33,6 +33,7 @@ class User {
   }
 }
 
+// Test de la classe User dans la fonction main
 void main() {
   // Création de l'utilisateur initial
   const user1 = User(id: '1', name: 'name:Alice', email: 'alice@example.com');
